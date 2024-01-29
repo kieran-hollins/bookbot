@@ -1,3 +1,5 @@
 # bookbot
 
-Bookbot is a project which will be used to get scan statistics about books.
+Bookbot is a project which can generate statistics about books.
+
+Created while following boot.dev course.
